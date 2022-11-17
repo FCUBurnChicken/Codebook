@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  17 NOV 2022 14:45
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  17 NOV 2022 21:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,9 +6,9 @@ entering extended mode
 (codebook.tex
 LaTeX2e <2022-11-01>
 L3 programming layer <2022-11-02>
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count181
@@ -23,7 +23,7 @@ File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen140
 )
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks16
 \thm@bodyfont=\toks17
@@ -35,10 +35,10 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headsep=\skip51
 \dth@everypar=\toks21
 )
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks22
 \symAMSa=\mathgroup4
@@ -46,14 +46,14 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.st
+)) (C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.st
 y
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
 e.sty
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2022-11-02 L3 programming layer (loader) 
 
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
 ex.def
 File: l3backend-xetex.def 2022-10-26 L3 backend support: XeTeX
 \g__graphics_track_int=\count189
@@ -66,7 +66,7 @@ Package: xparse 2022-06-22 L3 Experimental document command parser
 )
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex
 .sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
 X
@@ -84,29 +84,29 @@ X
 \l__fontspec_tmpa_dim=\dimen141
 \l__fontspec_tmpb_dim=\dimen142
 \l__fontspec_tmpc_dim=\dimen143
- (C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+ (C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg))
-) (C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg))
+) (C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
 
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: xetex.def on input line 149.
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
 File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
-) (C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
-x)) (C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+) (C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x)) (C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 227.
 LaTeX Info: Redefining \color on input line 711.
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1369.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
@@ -115,11 +115,11 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\x11nam.def
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\x11nam.def
 File: x11nam.def 2022/06/12 v2.14 Predefined colors according to Unix/X11 (UK)
 ))
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks23
 )
@@ -136,17 +136,17 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \lst@lineno=\count275
 \lst@maxwidth=\dimen147
 
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count276
 \lst@skipnumbers=\count277
 \lst@framebox=\box53
 )
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
 \f@nch@headwidth=\skip52
@@ -159,16 +159,16 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip59
 \f@nch@O@orf=\skip60
 )
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
 fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
@@ -177,11 +177,11 @@ Package graphics Info: Driver file: xetex.def on input line 107.
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
 )
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks25
 )
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box54
 \beforetitleunit=\skip61
@@ -193,24 +193,24 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \titlewidthlast=\dimen153
 \titlewidthfirst=\dimen154
 )
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip63
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks27
 \ex@=\dimen155
 ))
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen156
 )
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count278
@@ -261,13 +261,13 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK.sty
 Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
 
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexhook.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexhook.sty
 Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
 )
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xtemplate\xt
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xtemplate\xt
 emplate.sty
 Package: xtemplate 2022-06-22 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen164
@@ -336,12 +336,12 @@ Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
 \l__xeCJK_verb_case_int=\count302
 \l__xeCJK_verb_exspace_skip=\skip73
 
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK-listings.
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK-listings.
 sty
 Package: xeCJK-listings 2022/08/05 v3.9.1 xeCJK patch file for listings
 \l__xeCJK_listings_max_char_int=\count303
 \l__xeCJK_listings_flag_int=\count304
-) (C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK.cfg
+) (C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK.cfg
 File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
 ))
 
@@ -349,10 +349,10 @@ Package ctexhook Warning: Package `CJKulem' can not be loaded with `xeCJK'.
 
 LaTeX Info: Package 'CJKulem.sty' has been disabled.
             Load request ignored on input line 18.
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\courier.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\courier.sty
 Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\Inconsolata
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\Inconsolata
 .fontspec)
 
 Package fontspec Info: Font family 'Inconsolata(0)' created for font
@@ -380,7 +380,7 @@ tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\Inconsolata
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\Inconsolata
 .fontspec)
 
 Package fontspec Info: Font family 'Inconsolata(1)' created for font
@@ -447,13 +447,13 @@ Package fontspec Info: Font family 'NotoSansCJKTC(0)' created for font 'Noto
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
 \symCJKmath=\mathgroup255
@@ -461,7 +461,7 @@ LaTeX Font Info:    Overwriting symbol font `CJKmath' in version `bold'
 (Font)                  TU/NotoSansCJKTC(0)/m/n --> TU/NotoSansCJKTC(0)/b/n on 
 input line 85.
 
-(codebook.aux)
+No file codebook.aux.
 \openout1 = `codebook.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
@@ -475,8 +475,7 @@ LaTeX Font Info:    ... okay on input line 85.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
 5.
-
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+(C:\Users\marve\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 85.
@@ -553,20 +552,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 .
 \c@lstlisting=\count305
 
-(codebook.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
-
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
-
-(C:\Users\A315-\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+No file codebook.toc.
 \tf@toc=\write3
 \openout3 = `codebook.toc'.
-
 
 (content.tex
 
@@ -575,7 +563,10 @@ Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 (xeCJK)                Try to use `\setCJKmonofont[<...>]{<...>}' to define
 (xeCJK)                it.
 
-(Contents/section1/basic.cpp) (Contents/section2/thm.tex))
+(Contents/dynamic programming/0_1_Knapsack_problems.cpp)
+(Contents/dynamic programming/Complete_Knapsack_problems.cpp)
+(Contents/dynamic programming/LCS.cpp) (Contents/dynamic programming/LICS.cpp)
+(Contents/dynamic programming/LIS.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -583,15 +574,22 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
+]))
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[2
 
 ] (codebook.aux) ) 
 Here is how much of TeX's memory you used:
- 9330 strings out of 410453
- 216780 string characters out of 2811225
- 819510 words of memory out of 3000000
- 30459 multiletter control sequences out of 15000+600000
- 471324 words of font info for 63 fonts, out of 8000000 for 9000
+ 9355 strings out of 410453
+ 217120 string characters out of 2811225
+ 1066510 words of memory out of 3000000
+ 30496 multiletter control sequences out of 15000+600000
+ 470001 words of font info for 53 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,11n,77p,250b,1147s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,12n,77p,250b,1641s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on codebook.pdf (1 page).
+Output written on codebook.pdf (2 pages).
