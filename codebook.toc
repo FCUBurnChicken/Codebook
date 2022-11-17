@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Basic}{1}{}%
+\contentsline {subsection}{\numberline {1.1}.vimrc}{1}{}%
+\contentsline {section}{\numberline {2}Dynamic Programming}{1}{}%
+\contentsline {subsection}{\numberline {2.1}0/1 Knapsack\_problems}{1}{}%
+\contentsline {subsection}{\numberline {2.2}Complete\_Knapsack\_problems}{1}{}%
+\contentsline {subsection}{\numberline {2.3}Longest Common Subsequence(LCS)}{1}{}%
+\contentsline {subsection}{\numberline {2.4}Longest increasing common sequence(LICS)}{1}{}%
+\contentsline {subsection}{\numberline {2.5}Longest Increasing Subsequence(LIS)}{1}{}%
+\contentsline {section}{\numberline {3}Data Structure}{2}{}%
+\contentsline {subsection}{\numberline {3.1}Disjoint Set Union-Find}{2}{}%
+\contentsline {section}{\numberline {4}String}{2}{}%
+\contentsline {subsection}{\numberline {4.1}Suffix Array}{2}{}%
+\contentsline {subsection}{\numberline {4.2}Suffix Array LCP}{2}{}%
