@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  17 NOV 2022 21:33
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  18 NOV 2022 00:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./codebook.tex
+**codebool.tex
 (codebook.tex
 LaTeX2e <2022-11-01>
 L3 programming layer <2022-11-02>
@@ -563,10 +563,14 @@ Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 (xeCJK)                Try to use `\setCJKmonofont[<...>]{<...>}' to define
 (xeCJK)                it.
 
-(Contents/dynamic programming/0_1_Knapsack_problems.cpp)
-(Contents/dynamic programming/Complete_Knapsack_problems.cpp)
-(Contents/dynamic programming/LCS.cpp) (Contents/dynamic programming/LICS.cpp)
-(Contents/dynamic programming/LIS.cpp
+(Contents/basic/.vimrc) (Contents/dynamic programming/0_1_Knapsack_problems.cpp
+) (Contents/dynamic programming/Complete_Knapsack_problems.cpp)
+(Contents/dynamic programming/LCS.cpp)
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+|[]\TU/Inconsolata(0)/b/n/12 Longest increasing common se-
+ []
+
+(Contents/dynamic programming/LICS.cpp) (Contents/dynamic programming/LIS.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -574,22 +578,21 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-]))
+]) (Contents/data structure/dsu.cpp) (Contents/string/suffix_array.cpp)
+(Contents/string/suffix_array_lcp.cpp))
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[2
-
-] (codebook.aux) ) 
+[2] (codebook.aux) ) 
 Here is how much of TeX's memory you used:
- 9355 strings out of 410453
- 217120 string characters out of 2811225
- 1066510 words of memory out of 3000000
- 30496 multiletter control sequences out of 15000+600000
+ 9485 strings out of 410453
+ 218722 string characters out of 2811225
+ 1074510 words of memory out of 3000000
+ 30610 multiletter control sequences out of 15000+600000
  470001 words of font info for 53 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,12n,77p,250b,1641s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,12n,77p,248b,1641s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
 Output written on codebook.pdf (2 pages).
