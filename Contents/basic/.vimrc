@@ -1,3 +1,4 @@
+filetype indent on
 syntax enable
 set nu
 set cursorline
